@@ -44,6 +44,8 @@ Mención: **Desarrollador Web Full Stack**
 
 ## 🌐 Social:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rivasedgar3007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edgar-francisco-delgado-rivas-32526a253/)
+
 
 ## 💻 Tech:
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
