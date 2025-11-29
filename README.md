@@ -42,11 +42,8 @@ Actualmente estoy dedicado a fortalecer mis habilidades en **|| React.js | Types
 Mención: **Desarrollador Web Full Stack**
 ---
 
-## ⚙️ Analíticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edgardelgado&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edgar-Devep&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgardelgado&layout=compact&theme=radical)
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edgar-Devep&layout=compact&theme=radical)
 
 ✨ *Gracias por visitar mi perfil. Aquí encontrarás proyectos, aprendizajes y mucho código con pasión.*
