@@ -42,8 +42,17 @@ Actualmente estoy dedicado a fortalecer mis habilidades en **|| React.js | Types
 Mención: **Desarrollador Web Full Stack**
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edgar-Devep&show_icons=true&theme=radical)
+## 🌐 Social:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rivasedgar3007)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edgar-Devep&layout=compact&theme=radical)
+## 💻 Tech:
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
 ✨ *Gracias por visitar mi perfil. Aquí encontrarás proyectos, aprendizajes y mucho código con pasión.*
