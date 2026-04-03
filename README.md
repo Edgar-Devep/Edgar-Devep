@@ -8,8 +8,8 @@ Actualmente estoy dedicado a fortalecer mis habilidades en **|| React.js | Types
 ## 🚀 Proyectos Destacados
 | Proyecto | Descripción | Demo |
 |---|---|---|
-| 🎬 The App Movie | App de películas con React, TypeScript y TMDB API | [Ver](https://the-app-movie.vercel.app) |
-| 🖋️ React Tasks Manager | Gestor de tareas con React y localStorage | [Ver](https://edgar-devep.github.io/React-Tasks-Manager/) |
+| 🎬 The App Movie | App de películas con React, TypeScript y TMDB API | <a href="https://the-app-movie.vercel.app" target="_blank">Ver</a> |
+| 🖋️ React Tasks Manager | Gestor de tareas con React y localStorage | <a href="https://edgar-devep.github.io/React-Tasks-Manager/" target="_blank">Ver</a> |
 
 ---
 
